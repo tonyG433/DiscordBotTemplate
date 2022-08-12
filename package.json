@@ -1,0 +1,16 @@
+{
+  "name": "discordbottemplate",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@discordjs/rest": "^1.0.1",
+    "discord-api-types": "^0.37.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^14.2.0",
+    "moment": "^2.29.4"
+  }
+}
